@@ -1,0 +1,20 @@
+a.nav-link {
+    color:  rgb(0, 223, 56)!important;
+}
+
+a.nav-link:hover {
+    color:  rgb(0, 189, 47) !important;
+}
+
+a {
+    color:  rgb(13, 148, 42);
+}
+
+a:hover {
+    color:  rgb(0, 105, 23);
+    text-decoration: none;
+}
+
+.color-green {
+    color:  rgb(127, 168, 137);
+}
