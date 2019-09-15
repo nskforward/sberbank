@@ -18,3 +18,6 @@ a:hover {
 .color-green {
     color:  rgb(127, 168, 137);
 }
+.brand-color {
+    color: #4BB350 !important;
+}
